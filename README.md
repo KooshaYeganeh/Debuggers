@@ -19,6 +19,6 @@ After downloading the files, just run each one you want
 for Example : 
 
 ```
-./maldet
+./maldet_debuger
 ```
 
