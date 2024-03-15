@@ -4,10 +4,10 @@ A repository containing a debugger of statements and important software that is 
 
 ## Tools
 
-[⨯] 1- Linux Malware Detect
-[] 2- WordPress
-[] 3- Tiger
-[] 4- Zeek
+[⨯] 1- Linux Malware Detect  
+[] 2- WordPress  
+[] 3- Tiger  
+[] 4- Zeek  
 [] 5- KYGnus Guard
 
 
